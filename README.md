@@ -190,7 +190,7 @@ Este módulo administra los servicios backend de la aplicación.
 # 📂 Estructura del proyecto
 
 ```bash
-CarRentalManagementApp/
+AppMovilRentaVehiculos/
 │
 ├── lib/                      # Código principal Flutter
 ├── assets/                   # Recursos multimedia
@@ -225,7 +225,7 @@ CarRentalManagementApp/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/isairey/CarRentalManagementApp.git
+git clone https://github.com/isairey/AppMovilRentaVehiculos.git
 ```
 
 ---
@@ -233,7 +233,7 @@ git clone https://github.com/isairey/CarRentalManagementApp.git
 ## 2️⃣ Acceder al proyecto
 
 ```bash
-cd CarRentalManagementApp
+cd AppMovilRentaVehiculos
 ```
 
 ---
@@ -328,17 +328,7 @@ flutter run
 
 ---
 
-# 🎥 Demo
 
-## ▶️ Video demostración
-
-📺 YouTube Demo:
-
-```bash
-https://youtu.be/mWFOnzAi4-w
-```
-
----
 
 # 🧠 Objetivos del proyecto
 
